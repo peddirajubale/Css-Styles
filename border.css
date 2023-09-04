@@ -1,0 +1,15 @@
+.border1{
+    border-style: dashed;
+}
+.border2{
+    border-style: dotted;
+}
+.border3{
+    border-style:groove;
+}
+.border4{
+    border-style:solid;
+}
+.border5{
+    border-style:inset;
+}
