@@ -1,0 +1,5 @@
+parent element -> p
+child element -> c 
+
+if c has not separate styling then p styling is follows
+if c has separate styling then p is not follows

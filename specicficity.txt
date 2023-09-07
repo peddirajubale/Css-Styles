@@ -1,0 +1,3 @@
+prerority of styles:
+Order:
+Inline, Id's, Class, Elements
